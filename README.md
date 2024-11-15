@@ -52,6 +52,9 @@ Edge detection applied to the input image results in this output:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/GovardhanaRekam/Image_Process_Verilog.git2.
+
 2.Make sure you have a Verilog simulator to run the code.
+
 3.Run the Verilog simulation for image processing.
+
 4.Check the processed output images generated in the repository.
